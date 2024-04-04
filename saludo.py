@@ -1,2 +1,8 @@
 h = ("hola mundo")
 print(h)
+print(h)
+print(h)
+print(h)
+print(h)
+print(h)
+print(o)
